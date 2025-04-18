@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    padding: 40px;
+    max-width: 600px;
+    margin: auto;
+    background: #f8f8f8;
+  }
+  
+  form input {
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
